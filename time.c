@@ -3,7 +3,7 @@
 int main()
 {
     
-int sec,m,s;
+int sec,h,m,s;
     
 scanf("%d",&sec);
     
